@@ -1,3 +1,9 @@
+#header {
+    background-image:url('http://secureservercdn.net/198.71.190.232/hn8.c24.myftpupload.com/wp-content/themes/twentyseventeen/assets/images/header.jpg');
+    max-width:100%;
+    max-height:auto;
+}
+
 .banner {
     background-image: url('http://secureservercdn.net/198.71.190.232/hn8.c24.myftpupload.com/wp-content/themes/twentyseventeen/assets/images/header.jpg');
     background-position: center;
@@ -42,4 +48,12 @@
     position: absolute;
     left: 50%;
     transform: translatex(-50%);
+}
+
+p {
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
 }
