@@ -1,0 +1,45 @@
+.banner {
+    background-image: url('http://secureservercdn.net/198.71.190.232/hn8.c24.myftpupload.com/wp-content/themes/twentyseventeen/assets/images/header.jpg');
+    background-position: center;
+    min-height: 845px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.banner h1 {
+    font-family: 'Libre Franklin', sans-serif;
+    color: white;
+    font-size: 24px;
+    font-size: 1.5rem;
+    font-weight: 800;
+    line-height: 1.25;
+    letter-spacing: 0.08em;
+    margin: 0;
+    padding: 0;
+    text-transform: uppercase;
+}
+
+.site-description {
+    font-family: "Libre Franklin";
+    font-weight: 900;
+    color: white;
+    bottom: 170;
+    left: 420;
+    position: absolute;
+
+}
+.sub-description {
+    font-family: "Libre Franklin";
+    color: white;
+    bottom: 120;
+    left: 420;
+    position: absolute;
+    
+}
+
+.navbar-nav.navbar-center {
+    position: absolute;
+    left: 50%;
+    transform: translatex(-50%);
+}
